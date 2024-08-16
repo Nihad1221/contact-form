@@ -1,7 +1,5 @@
 Ad: 
-Soyad: 
+movzu: 
 Email: 
 Məktub: 
-
-
 
